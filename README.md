@@ -15,3 +15,5 @@ Include the files used
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
+### Project Goal
+The goal of this project is to explore bikeshare usage patterns in three major US cities.
