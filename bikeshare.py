@@ -9,10 +9,8 @@ CITY_DATA = { 'chicago': 'chicago.csv',
 
 def display_raw_data(df):
 
-     
-   # Display 5 rows of raw bikeshare data upon user request.
-   
-     
+    # Display 5 rows of raw bikeshare data upon user request. 
+
     start = 0
     end = 5
     while True:
