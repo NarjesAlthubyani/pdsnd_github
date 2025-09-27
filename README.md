@@ -19,3 +19,5 @@ This project explores bikeshare data from Chicago, New York City, and Washington
 ### Credits
  Udacity Data Analyst Nanodegree project
 
+### Project Goal
+The goal of this project is to explore bikeshare usage patterns in three major US cities.
