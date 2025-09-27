@@ -9,12 +9,7 @@ CITY_DATA = { 'chicago': 'chicago.csv',
 
 def display_raw_data(df):
 
-     
-   # Display 5 rows of raw bikeshare data upon user request.
-   
-     
-    start = 0
-    end = 5
+    start, end = 0, 5
     while True:
         show = input("Do you want to see 5 lines of raw data? Enter yes or no: ").lower()
         if show != 'yes':
